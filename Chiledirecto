@@ -1,0 +1,320 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TIERRA BRAVA" tvg-logo="http://flx.lat:8080/images/accf818a8a2af3516722f103f790a845.jpg" group-title="▶️ CHILE DIRECTO ",TIERRA BRAVA
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119734.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SIEMPRE HAY UN CHILENO" tvg-logo="http://flx.lat:8080/images/ceaf67ed67a645bcb08bcfc7867651e4.jpg" group-title="▶️ CHILE DIRECTO ",SIEMPRE HAY UN CHILENO
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119735.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CAROLINA TV" tvg-logo="http://flx.lat:8080/images/d7ffd5c29488ce8855a7f593d9b7e3e3.jpg" group-title="▶️ CHILE DIRECTO ",CAROLINA TV
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119737.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 CULTURA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKH80TSUU28idJx-1BtO3hyiUD8_FsWgFNZg&usqp=CAU" group-title="▶️ CHILE DIRECTO ",13 CULTURA
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119738.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/13i_2018.png/800px-13i_2018.png" group-title="▶️ CHILE DIRECTO ",13 INTERNACIONAL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119739.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 NOTICIAS" tvg-logo="https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_2000.m3u8?dpssid=b13232145184463dfb20308060&sid=ba5t1l1xb233860514365a1814cee285&ndvc=0" group-title="▶️ CHILE DIRECTO ",13 NOTICIAS
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119740.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 RIALITY" tvg-logo="http://127.0.0.1/" group-title="▶️ CHILE DIRECTO ",13 RIALITY
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119741.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 FESTIVAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg/revision/latest/scale-to-width-down/250?cb=20230902024552&path-prefix=es" group-title="▶️ CHILE DIRECTO ",13 FESTIVAL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119742.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 HUMOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/13humor.svg/revision/latest/scale-to-width-down/250?cb=20230902025105&path-prefix=es" group-title="▶️ CHILE DIRECTO ",13 HUMOR
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119743.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 ENTRETENCIÓN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg/revision/latest/scale-to-width-down/250?cb=20220709181337" group-title="▶️ CHILE DIRECTO ",13 ENTRETENCIÓN
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119744.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 PRIME" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/13prime.svg/revision/latest/scale-to-width-down/270?cb=20221228234932&path-prefix=es" group-title="▶️ CHILE DIRECTO ",13 PRIME
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119745.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg/revision/latest/scale-to-width-down/250?cb=20230517002128&path-prefix=es" group-title="▶️ CHILE DIRECTO ",13 KIDS
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119746.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 TELE SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg/revision/latest/scale-to-width-down/250?cb=20220709181906" group-title="▶️ CHILE DIRECTO ",13 TELE SERIES
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119747.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 DEPORTE" tvg-logo="http://127.0.0.1/" group-title="▶️ CHILE DIRECTO ",13 DEPORTE
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119748.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="+ Listas en M3U.CL ✪ | CL" tvg-logo="http://flx.lat:8080/images/dde3f6d4e767e714459cde1fe40629b8.png" group-title="▶️ CHILE DIRECTO ",+ Listas en M3U.CL ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119751.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/3724c625634fbd90bffa889bcc2a80b5.png" group-title="▶️ CHILE DIRECTO ",Retro Plus TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119752.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 2 ✪ | CL" tvg-logo="http://flx.lat:8080/images/6c9f1adecf8fd1791eec757d85b2707f.png" group-title="▶️ CHILE DIRECTO ",Retro Plus TV Señal 2 ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119753.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Retro Plus TV Señal 3 ✪ | CL" tvg-logo="http://flx.lat:8080/images/cfb759b5d7e79c562ff2fe82d87052a2.png" group-title="▶️ CHILE DIRECTO ",Retro Plus TV Señal 3 ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119754.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV ✪ | CL" tvg-logo="http://flx.lat:8080/images/df5655b719d8633f9995fcc71d353dc5.png" group-title="▶️ CHILE DIRECTO ",VClassicTV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119755.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="VClassicTV Tropical ✪ | CL" tvg-logo="http://flx.lat:8080/images/712126eb3ea0315b1fb22ab12c5f5f62.png" group-title="▶️ CHILE DIRECTO ",VClassicTV Tropical ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119756.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Portal FoxMix ✪ | CL" tvg-logo="http://flx.lat:8080/images/51d81234dead5ee14a0443fb11cae306.png" group-title="▶️ CHILE DIRECTO ",Portal FoxMix ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119757.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Apanines TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/5fc7140fe4f46e37afba996894f02be5.png" group-title="▶️ CHILE DIRECTO ",Apanines TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119758.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Spectrum Channel ✪ | CL" tvg-logo="http://flx.lat:8080/images/28c903a5a5111b98b8049b92ff4bad72.jpg" group-title="▶️ CHILE DIRECTO ",Spectrum Channel ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119759.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Pandamax TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/c33215aac6b2e13a9c9ebd6412d3f1ef.png" group-title="▶️ CHILE DIRECTO ",Pandamax TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119760.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Moni TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/56a948bc558c0b07231bf19d1efe6ca9.png" group-title="▶️ CHILE DIRECTO ",Moni TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119761.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Terror TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/d590eee04b7fb1e448d45f252afafdd1.png" group-title="▶️ CHILE DIRECTO ",Terror TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119762.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Ruidos TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/f294a2ed35beacb79fe57666c0aaf860.png" group-title="▶️ CHILE DIRECTO ",Ruidos TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119763.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Eternal Metal ✪ | CL" tvg-logo="http://flx.lat:8080/images/4d72dd41b289350f6a9de0b9d996bf9b.png" group-title="▶️ CHILE DIRECTO ",Eternal Metal ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119764.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PlanetaTV Music ✪ | CL" tvg-logo="http://flx.lat:8080/images/776363d0cec467cdf515558c9fb92f6f.png" group-title="▶️ CHILE DIRECTO ",PlanetaTV Music ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119765.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PlanetaTV Movies ✪ | CL" tvg-logo="http://flx.lat:8080/images/8461343c2fa6147d8244ac26294e233f.png" group-title="▶️ CHILE DIRECTO ",PlanetaTV Movies ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119766.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Mundo de la Musica TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/3b325e0fec8ea9bfbdd17d8a34cab6a2.png" group-title="▶️ CHILE DIRECTO ",Mundo de la Musica TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119767.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Karavana TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/0f060babba03123a72d225ced4aad9f5.png" group-title="▶️ CHILE DIRECTO ",Karavana TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119768.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="La Chilena TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/815540019ecaea1b9e98ec70d73cfb9e.png" group-title="▶️ CHILE DIRECTO ",La Chilena TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119769.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Suyai TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/0b985f6a3a074e237e7de747360b0c18.png" group-title="▶️ CHILE DIRECTO ",Suyai TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119770.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CDR ✪ | CL" tvg-logo="http://flx.lat:8080/images/c8c6ec72d82b2ec5ed1f45876eb5aee4.png" group-title="▶️ CHILE DIRECTO ",CDR ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119771.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CRTV ✪ | CL" tvg-logo="http://flx.lat:8080/images/def86ff30eaf0f78ba99b115294d4338.png" group-title="▶️ CHILE DIRECTO ",CRTV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119772.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Retro Play TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/5208ae8a3c952d5f4f57609b8cfbbe95.png" group-title="▶️ CHILE DIRECTO ",Retro Play TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119773.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Benfer TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/f2532f7a1d20750e350e8a27c5cf66c3.png" group-title="▶️ CHILE DIRECTO ",Benfer TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119774.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Providencia TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/4b14528a7368f08bbd7e2984d741bb3c.png" group-title="▶️ CHILE DIRECTO ",Providencia TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119775.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Nina TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/8bb9f46862a4f4050300f7c66607a93c.png" group-title="▶️ CHILE DIRECTO ",Nina TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119776.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M Music TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/72293d97915a3b51ff916ade0ad97273.png" group-title="▶️ CHILE DIRECTO ",M Music TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119777.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Somos TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/7434d867f2e76e8a80d44119050732a2.png" group-title="▶️ CHILE DIRECTO ",Somos TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119778.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sabrosona TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/00e5291178582e295713016020645ec7.png" group-title="▶️ CHILE DIRECTO ",Sabrosona TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119779.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="JCU Streaming Chile TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/4582b822f94fd92e8102b39c1ad95b72.png" group-title="▶️ CHILE DIRECTO ",JCU Streaming Chile TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119780.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Caldera Vision TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/3d0b3689e95a6fd26e09ada1b994524c.png" group-title="▶️ CHILE DIRECTO ",Caldera Vision TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119781.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Estación Metropolitana ✪ | CL" tvg-logo="http://flx.lat:8080/images/b339c1f62c4d66be5223809a52d42fb9.png" group-title="▶️ CHILE DIRECTO ",Estación Metropolitana ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119782.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="T13 ✪ | CL" tvg-logo="http://flx.lat:8080/images/3e04cd66ed1eb953fc514e6b80fdf750.png" group-title="▶️ CHILE DIRECTO ",T13 ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119783.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TVN 24 Horas ✪ | CL" tvg-logo="http://flx.lat:8080/images/87f5c14319f0e328b0a57c5bdf0ee306.png" group-title="▶️ CHILE DIRECTO ",TVN 24 Horas ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119784.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="U Chile TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/b7f145341b9a3b196dba971a45215a24.png" group-title="▶️ CHILE DIRECTO ",U Chile TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119785.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 ✪ | CL" tvg-logo="http://flx.lat:8080/images/045400360ad7a2afe23c787db889a705.png" group-title="▶️ CHILE DIRECTO ",Canal 13 ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119786.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TVN - Reuters ✪ | CL" tvg-logo="http://flx.lat:8080/images/e6d7ef17a6aa242f200b22d6f094f40e.png" group-title="▶️ CHILE DIRECTO ",TVN - Reuters ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119787.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NTV ✪ | CL" tvg-logo="http://flx.lat:8080/images/34826854ef4c17d5d18b71d13aaa64d5.png" group-title="▶️ CHILE DIRECTO ",NTV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119788.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Corcubio TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/ef6f7e703208be8885f09d39c2b80c70.png" group-title="▶️ CHILE DIRECTO ",Corcubio TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119789.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Chile Tradiciones ✪ | CL" tvg-logo="http://flx.lat:8080/images/8edf90963ebb90998665ce7087d4e764.png" group-title="▶️ CHILE DIRECTO ",Chile Tradiciones ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119790.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Estacion Araucania ✪ | CL" tvg-logo="http://flx.lat:8080/images/99b03f2a40f801deae58834193c2b2e8.png" group-title="▶️ CHILE DIRECTO ",Estacion Araucania ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119791.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Chilevisual Retro ✪ | CL" tvg-logo="http://flx.lat:8080/images/902920094e7b933e94e1b7855ceb459e.png" group-title="▶️ CHILE DIRECTO ",Chilevisual Retro ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119792.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Chilevisual Kids ✪ | CL" tvg-logo="http://flx.lat:8080/images/3038d5a5b90298218c7980fb919be8a3.png" group-title="▶️ CHILE DIRECTO ",Chilevisual Kids ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119793.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Chilevisual Film ✪ | CL" tvg-logo="http://flx.lat:8080/images/795a4b7c3ae6f658955b340a8efa778a.png" group-title="▶️ CHILE DIRECTO ",Chilevisual Film ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119794.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Chilevisual Cultura ✪ | CL" tvg-logo="http://flx.lat:8080/images/699121a11296a04c13dd98f4aad44de8.png" group-title="▶️ CHILE DIRECTO ",Chilevisual Cultura ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119795.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RAYZ Noticias ✪ | CL" tvg-logo="http://flx.lat:8080/images/297216859276689b2b97413d22a16d87.png" group-title="▶️ CHILE DIRECTO ",RAYZ Noticias ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119796.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Telenorte ✪ | CL" tvg-logo="http://flx.lat:8080/images/0ee2f90ea56b0348561b42360d159bf1.png" group-title="▶️ CHILE DIRECTO ",Telenorte ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119797.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Longino TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/084de63c2000c340998e2336361b8c21.png" group-title="▶️ CHILE DIRECTO ",Longino TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119798.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Prensa ✪ | CL" tvg-logo="http://flx.lat:8080/images/bd12df99c90b12f337ec2fa8926e70ce.png" group-title="▶️ CHILE DIRECTO ",Zona de Prensa ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119799.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Primicia Vida Television ✪ | CL" tvg-logo="http://flx.lat:8080/images/97a7795b3a3a531b1577100f1f3c3480.png" group-title="▶️ CHILE DIRECTO ",Primicia Vida Television ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119800.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Mamalluca TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/a12b34876f083510a49cece657e7ff5f.png" group-title="▶️ CHILE DIRECTO ",Mamalluca TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119801.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Urban Pro DJ ✪ | CL" tvg-logo="http://flx.lat:8080/images/8b62c86b79edf776e65013c63f22133c.png" group-title="▶️ CHILE DIRECTO ",Urban Pro DJ ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119802.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="WF9 ✪ | CL" tvg-logo="http://flx.lat:8080/images/8c3218b3f9ef53c531464ddb57a004b7.png" group-title="▶️ CHILE DIRECTO ",WF9 ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119803.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="La Nuestra ✪ | CL" tvg-logo="http://flx.lat:8080/images/ef46226b765f2d83668cea50a73c2371.png" group-title="▶️ CHILE DIRECTO ",La Nuestra ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119804.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Classic Channel ✪ | CL" tvg-logo="http://flx.lat:8080/images/88bb7086700023911a027c8ddc0c9c27.png" group-title="▶️ CHILE DIRECTO ",Classic Channel ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119805.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="13 Kids ✪ | CL" tvg-logo="http://flx.lat:8080/images/d9977ff1e376510b711a0d303acb198e.png" group-title="▶️ CHILE DIRECTO ",13 Kids ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119806.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TV y TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/1cd20638e14135874083c53fafa0548c.png" group-title="▶️ CHILE DIRECTO ",TV y TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119807.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Chilevisual Classic ✪ | CL" tvg-logo="http://flx.lat:8080/images/2964af6c3bdf333ccf15ba11c638b3a1.png" group-title="▶️ CHILE DIRECTO ",Chilevisual Classic ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119808.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Alerce TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/facbccf6a04d063f455f5e35bf15ee74.png" group-title="▶️ CHILE DIRECTO ",Alerce TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119809.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Los Sauces TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/76a614baf021625b73ac63ce78e6dd79.png" group-title="▶️ CHILE DIRECTO ",Los Sauces TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119810.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Galactika Media ✪ | CL" tvg-logo="http://flx.lat:8080/images/ede883b37eba140879d8b54f13143e9e.png" group-title="▶️ CHILE DIRECTO ",Galactika Media ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119811.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Freestyledjs ✪ | CL" tvg-logo="http://flx.lat:8080/images/92cfd7e94bf2065fa86ce0970e168850.png" group-title="▶️ CHILE DIRECTO ",Freestyledjs ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119812.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Dance FM ✪ | CL" tvg-logo="http://flx.lat:8080/images/5359b8d6673c0e3f04c109b40f0a3389.png" group-title="▶️ CHILE DIRECTO ",Dance FM ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119813.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Solobailalo TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/6c26a042bf34124abcf4f6339edc3202.png" group-title="▶️ CHILE DIRECTO ",Solobailalo TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119814.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Opinionsur TV ✪ | CL" tvg-logo="http://flx.lat:8080/images/00f12c0c59fea098daf481265da39719.png" group-title="▶️ CHILE DIRECTO ",Opinionsur TV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Restream5656tv56/119815.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HiperTV ✪ | CL" tvg-logo="http://flx.lat:8080/images/327ffd453e3537484e6233c4711c9167.png" group-title="▶️ CHILE DIRECTO ",HiperTV ✪ | CL
+
+http://flx.lat:8080/live/Camilotv545/Rest
