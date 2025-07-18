@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="USA | E$PN" tvg-logo="http://daleplay.club:8080/images/6fc08878f3be999a9671861377b14a21.png" group-title="🇺🇲 USA | SPØRTS",USA | E$PN
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/6b26148b-2e1a-462b-b128-ff9dd1bcd2c8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="S| NBC Sports Bay Area HD" tvg-logo="http://daleplay.club:8080/images/2d757b2d52468ee0608d934fedc25c5b.png" group-title="🇺🇲 USA | SPØRTS",S| NBC Sports Bay Area HD
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/8fc805b6-76ed-415d-be0a-d460fb85f9f6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="S| Spectrum Sports" tvg-logo="http://daleplay.club:8080/images/cfaf19d8679a5c11f09498026df04440.png" group-title="🇺🇲 USA | SPØRTS",S| Spectrum Sports
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/71f78b3d-0028-4a47-ab8d-32fa8269fa47.m3u
+#EXTINF:-1 tvg-id="" tvg-name="S| SPECTRUM SPORTS NET LA" tvg-logo="http://daleplaypro.com:8080/images/cc42f0c57c21b216d369f6c0c64b9b13.png" group-title="🇺🇲 USA | SPØRTS",S| SPECTRUM SPORTS NET LA
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/3d926478-155b-49cd-8549-cdc8cafe0bbe.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.postimg.cc/wvRNSmYs/FWHD.jpg" group-title="🎭 CULTURA",FOOD NETWORK HD
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/dc427192-0d2b-4668-97a3-b9b01f134e14.m3u
+#EXTINF:-1 tvg-id="" tvg-name="**CNN**INTERNATIONAL**" tvg-logo="http://daleplay.club:8080/images/8f4f86e3acad5644c07a17b387499243.png" group-title="📰 NOTICIAS",**CNN**INTERNATIONAL**
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/e81d0821-426f-4fb8-baa3-23e65e3cf781.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS DETROIT⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS DETROIT⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/b27cf3e7-2f4d-4f72-83b5-828e93851b2b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS INDIANA" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS INDIANA
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/fc04d28e-5073-42fd-9ffe-61c3db7ad6c1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS KANSAS CITY⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS KANSAS CITY⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/29e96a89-4fb4-41a4-b8be-0f0bbe103d7c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS NEW ORLEANS" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS NEW ORLEANS
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/cdda0860-d261-4fb5-8346-3e332265909b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS NORTH" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS NORTH
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/df13cb21-5512-4cdb-b6ec-4e49eb4f26b8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS OHIO⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS OHIO⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/23e8d3e1-0aeb-4f31-b924-c94d9e2bc944.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS OKLAHOMA⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS OKLAHOMA⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/8796673b-6369-4d39-b677-b41c5f24467b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS SOCAL" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS SOCAL
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/b7986b4c-5aa9-41d0-9770-1038a5de837a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS SOUTHEAST⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS SOUTHEAST⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/b9f8db57-4e1e-4753-abf1-20a2817565bd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS SOUTHWEST⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS SOUTHWEST⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/13180a6a-3995-458e-b5a6-2dd373987c34.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: BALLY SPORTS WISCONSIN⭐⭐" tvg-logo="https://i.picasion.com/pic92/2288e8398a7ca0ae80fbd76b38a46ecf.gif" group-title="⚽ ZONA | MLB",USA: BALLY SPORTS WISCONSIN⭐⭐
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/2598b80b-db3e-4ceb-b9fe-4959e0407aa2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MX│F0X $PORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24xSUhkV3LtVNJ-MJPek8UHr3nhD8Eb1_2Q&usqp=CAU" group-title="⚽ ZONA | FOX SPORT",MX│F0X $PORTS 2 HD
+http://goflixpro.com:80/live/2023jhoanrodriguez/jhoanr2023/da1c6598-8b6d-438c-98ee-808c9a7d0634.m3u
