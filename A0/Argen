@@ -1,0 +1,192 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",A&E HD
+181.209.105.115:2525/play/ae/index.m3u8
+#EXTINF:-1 group-title="-",A24
+181.209.105.115:2525/play/a24/index.m3u8
+#EXTINF:-1 group-title="-",AM Sports
+181.209.105.115:2525/play/amsport/index.m3u8
+#EXTINF:-1 group-title="-",AMC
+181.209.105.115:2525/play/amc/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+181.209.105.115:2525/play/axn/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+181.209.105.115:2525/play/america/index.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+181.209.105.115:2525/play/babytv/index.m3u8
+#EXTINF:-1 group-title="-",C5N
+181.209.105.115:2525/play/c5n/index.m3u8
+#EXTINF:-1 group-title="-",CNN en Espaæol
+181.209.105.115:2525/play/cnn/index.m3u8
+#EXTINF:-1 group-title="-",Cadena 3
+181.209.105.115:2525/play/cadena3/index.m3u8
+#EXTINF:-1 group-title="-",Canal 26
+181.209.105.115:2525/play/c26/index.m3u8
+#EXTINF:-1 group-title="-",Canal a
+181.209.105.115:2525/play/canala/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network HD
+#EXTINF:-1 group-title="-",Cartoon Network HD
+181.209.105.115:2525/play/cartoonnetwork/index.m3u8
+#EXTINF:-1 group-title="-",Cine.AR
+181.209.105.115:2525/play/cinear/index.m3u8
+#EXTINF:-1 group-title="-",Cinecanal HD
+181.209.105.115:2525/play/cinecanal/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+181.209.105.115:2525/play/cinemax/index.m3u8
+#EXTINF:-1 group-title="-",Comedy Central HD
+181.209.105.115:2525/play/comedycentral/index.m3u8
+#EXTINF:-1 group-title="-",Cronica
+181.209.105.115:2525/play/cronica/index.m3u8
+#EXTINF:-1 group-title="-",DeporTV
+181.209.105.115:2525/play/deportv/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+181.209.105.115:2525/play/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+181.209.105.115:2525/play/discoveryhh/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+181.209.105.115:2525/play/discoverykids/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+181.209.105.115:2525/play/discoveryscience/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+181.209.105.115:2525/play/discoverytheater/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+181.209.105.115:2525/play/discoveryturbo/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+181.209.105.115:2525/play/discoveryworld/index.m3u8
+#EXTINF:-1 group-title="-",Disney Channel HD
+181.209.105.115:2525/play/disneychannel/index.m3u8
+#EXTINF:-1 group-title="-",Disney Junior
+181.209.105.115:2525/play/disneyjunior/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+181.209.105.115:2525/play/espn2/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+181.209.105.115:2525/play/espn3/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+181.209.105.115:2525/play/espn4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+181.209.105.115:2525/play/espn/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+181.209.105.115:2525/play/espnpremium/index.m3u8
+#EXTINF:-1 group-title="-",EVENTOS
+181.209.105.115:2525/play/evento/index.m3u8
+#EXTINF:-1 group-title="-",El Canal de las Estrellas
+181.209.105.115:2525/play/elcanaldelasestrellas/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+181.209.105.115:2525/play/elgourmet/index.m3u8
+#EXTINF:-1 group-title="-",Encuentro
+181.209.105.115:2525/play/encuentro/index.m3u8
+#EXTINF:-1 group-title="-",Europa Europa
+181.209.105.115:2525/play/europaeuropa/index.m3u8
+#EXTINF:-1 group-title="-",FM 100
+181.209.105.115:2525/play/fm100/index.m3u8
+#EXTINF:-1 group-title="-",FX HD
+181.209.105.115:2525/play/fx/index.m3u8
+#EXTINF:-1 group-title="-",Film & Arts HD
+181.209.105.115:2525/play/filmarts/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 2 HD
+181.209.105.115:2525/play/foxsports2/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+181.209.105.115:2525/play/foxsports3/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports HD
+181.209.105.115:2525/play/foxsports/index.m3u8
+#EXTINF:-1 group-title="-",Galicia TV
+181.209.105.115:2525/play/galiciatv/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+181.209.105.115:2525/play/hbo/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+181.209.105.115:2525/play/hbo2/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+181.209.105.115:2525/play/hbofamily/index.m3u8
+#EXTINF:-1 group-title="-",HBO Mundi
+181.209.105.115:2525/play/hbomondi/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+181.209.105.115:2525/play/hboplus/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+181.209.105.115:2525/play/hbosignature/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme
+181.209.105.115:2525/play/hboxtreme/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+181.209.105.115:2525/play/hgtv/index.m3u8
+#EXTINF:-1 group-title="-",HTV
+181.209.105.115:2525/play/htv/index.m3u8
+#EXTINF:-1 group-title="-",History 2
+181.209.105.115:2525/play/history2/index.m3u8
+#EXTINF:-1 group-title="-",La Nacion TV
+181.209.105.115:2525/play/lanacion/index.m3u8
+#EXTINF:-1 group-title="-",Lifetime
+181.209.105.115:2525/play/lifetime/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+181.209.105.115:2525/play/mtv/index.m3u8
+#EXTINF:-1 group-title="-",Metro
+181.209.105.115:2525/play/metro/index.m3u8
+#EXTINF:-1 group-title="-",Nacional
+181.209.105.115:2525/play/nacional/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+181.209.105.115:2525/play/natgeo/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr
+181.209.105.115:2525/play/nickjr/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+181.209.105.115:2525/play/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="-",Pakapaka
+181.209.105.115:2525/play/pakapaka/index.m3u8
+#EXTINF:-1 group-title="-",Playboy
+181.209.105.115:2525/play/playboy/index.m3u8
+#EXTINF:-1 group-title="-",Quiero Musica
+181.209.105.115:2525/play/quieromusica/index.m3u8
+#EXTINF:-1 group-title="-",RAI Italia
+181.209.105.115:2525/play/raiitalia/index.m3u8
+HD
+D#EXTINF:-1 group-title="-",RT en Español
+181.209.105.115:2525/play/rtenespa/index.m3u8
+#EXTINF:-1 group-title="-",Rural
+181.209.105.115:2525/play/rural/index.m3u8
+#EXTINF:-1 group-title="-",Sextreme
+181.209.105.115:2525/play/sextreme/index.m3u8
+#EXTINF:-1 group-title="-",Sony HD
+181.209.105.115:2525/play/sonyhd/index.m3u8
+#EXTINF:-1 group-title="-",Sony Movies HD
+181.209.105.115:2525/play/sonymovies/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+181.209.105.115:2525/play/space/index.m3u8
+#EXTINF:-1 group-title="-",Star Channel HD
+181.209.105.115:2525/play/starchannel/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal
+181.209.105.115:2525/play/studiouniversal/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+181.209.105.115:2525/play/tcm/index.m3u8
+#EXTINF:-1 group-title="-",TN HD
+181.209.105.115:2525/play/tn/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+181.209.105.115:2525/play/tnt/index.m3u
+#EXTINF:-1 group-title="-",TNT Novelas HD
+181.209.105.115:2525/play/tntnovelas/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+181.209.105.115:2525/play/tntseries/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports HD
+181.209.105.115:2525/play/tntsports/index.m3u8
+#EXTINF:-1 group-title="-",TV Publica HD
+181.209.105.115:2525/play/tvpublica/index.m3u8
+#EXTINF:-1 group-title="-",TVE
+181.209.105.115:2525/play/tve/index.m3u8
+#EXTINF:-1 group-title="-",Telefe HD
+181.209.105.115:2525/play/telefe/index.m3u8
+#EXTINF:-1 group-title="-",The History Channel HD
+181.209.105.115:2525/play/thehistorychannel/index.m3u8
+#EXTINF:-1 group-title="-",TyC Sports HD
+181.209.105.115:2525/play/tycsports/index.m3u8
+#EXTINF:-1 group-title="-",USA Network
+181.209.105.115:2525/play/usanetwork/index.m3u8
+#EXTINF:-1 group-title="-",Universal HD
+181.209.105.115:2525/play/universal/index.m3u8
+#EXTINF:-1 group-title="-",Venus
+181.209.105.115:2525/play/venus/index.m3u8
+#EXTINF:-1 group-title="-",Volver
+181.209.105.115:2525/play/volver/index.m3u8
+#EXTINF:-1 group-title="-",Warner Channel HD
+181.209.105.115:2525/play/warnerchannel/index.m3u8
+#EXTINF:-1 group-title="-",ciudad magazine
+181.209.105.115:2525/play/ciudadmagazine/index.m3u8
+#EXTINF:-1 group-title="-",el nueve HD
+181.209.105.115:2525/play/elnueve/index.m3u8
+#EXTINF:-1 group-title="-",el trece HD
+181.209.105.115:2525/play/eltrece/index.m3u8
+          XTINFXTINFD
