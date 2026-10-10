@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,Foxsportspremium
+http://195.178.110.110/foxsportspremium/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Foxdeportes
+http://195.178.110.110/foxdeportes/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Espnpremium HD
+http://195.178.110.110/espnpremium/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Espndeportes
+http://195.178.110.110/espndeportes/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Win sports HD
+http://195.178.110.110/winsports/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Tudn
+http://195.178.110.110/tudn/index.m3u8?@TV_Free_GM
+#EXTINF:-1,foxsports 1 HD
+http://195.178.110.110/foxsports1/index.m3u8?@TV_Free_GM
+#EXTINF:-1,foxsports 2 HD
+http://195.178.110.110/foxsports2/index.m3u8?@TV_Free_GM
+#EXTINF:-1,foxsports 3 HD
+http://195.178.110.110/foxsports3/index.m3u8?@TV_Free_GM
+#EXTINF:-1,DSports
+http://195.178.110.110/dsportsar/index.m3u8?@TV_Free_GM
+#EXTINF:-1,DSports
+http://195.178.110.110/dsports/index.m3u8?@TV_Free_GM
+#EXTINF:-1,DSports 2
+http://195.178.110.110/dsports2/index.m3u8?@TV_Free_GM
+#EXTINF:-1,DSports Plus
+http://195.178.110.110/dsportsplus/index.m3u8?@TV_Free_GM
+#EXTINF:-1,TntSports
+http://195.178.110.110/tntsports/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Tyc Sports
+http://195.178.110.110/tycsports/index.m3u8?@TV_Free_GM
+#EXTINF:-1,SporTV
+http://195.178.110.110/sportv/index.m3u8?@TV_Free_GM
+#EXTINF:-1,SporTV 2
+http://195.178.110.110/sportv2/index.m3u8?@TV_Free_GM
+#EXTINF:-1,SporTV 3
+http://195.178.110.110/sportv3/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN
+http://195.178.110.110/espn/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 2
+http://195.178.110.110/espn2/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 3
+http://195.178.110.110/espn3/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 4
+http://195.178.110.110/espn4/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 5
+http://195.178.110.110/espn5/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 6
+http://195.178.110.110/espn6/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 7
+http://195.178.110.110/espn7/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN mx
+http://195.178.110.110/espnmx/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 2 mx
+http://195.178.110.110/espn2mx/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 3 mx
+http://195.178.110.110/espn3mx/index.m3u8?@TV_Free_GM
+#EXTINF:-1,ESPN 4 mx
+http://195.178.110.110/espn4mx/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 1
+http://195.178.110.110/premiere1/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 2
+http://195.178.110.110/premiere2/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 3
+http://195.178.110.110/premiere3/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 4
+http://195.178.110.110/premiere4/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 5
+http://195.178.110.110/premiere5/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 6
+http://195.178.110.110/premiere6/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Premiere 7
+http://195.178.110.110/premiere7/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Azteca 7
+http://195.178.110.110/azteca7/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Telemundo
+http://195.178.110.110/telemundo/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Movistar
+http://195.178.110.110/movistar/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Unimas
+http://190.197.41.183/Unimas/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Univision
+http://195.178.110.110/univision/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Universo
+http://195.178.110.110/universo/index.m3u8?@TV_Free_GM
+#EXTINF:-1,Disney 3
+http://195.178.110.110/disney3/index.m3u8?@TV_Free_GM
