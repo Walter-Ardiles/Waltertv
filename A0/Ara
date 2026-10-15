@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,FMH kids
+http://179.1.146.22:8000/play/a09s/index.m3u8
+#EXTINF:-1,FMH kids
+http://200.60.124.25:8000/play/a0kr/index.m3u8
+#EXTINF:-1,090 FMH Family
+http://45.181.121.57:2909/play/090
+#EXTINF:-1,FMH Family
+http://200.60.124.25:8000/play/a0ks/index.m3u8
+#EXTINF:-1,FMH FAMILY
+http://179.1.146.22:8000/play/a09t/index.m3u8
+#EXTINF:-1,094 FMH MOVIE
+http://45.181.121.57:2909/play/094
+#EXTINF:-1,FMH MOVIE
+http://200.60.124.25:8000/play/a0p0/index.m3u8
